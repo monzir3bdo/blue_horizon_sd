@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /destinations
+Allow: /airlines
+Allow: /testimonials
+Allow: /contact
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /temp/
+
+Sitemap: https://bluehorizon.com/sitemap.xml 
